@@ -2,7 +2,6 @@
 
 *查看其他语言版本：[English](README.md) | [简体中文](README_zh-CN.md)*
 
-![AgentLadle Banner](https://agentladle.com/vite.webp)
 
 **AgentLadle** 是一个专为 AI 开发者和平台设计的专业 Model Context Protocol (MCP) 服务器。
 

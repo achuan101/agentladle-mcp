@@ -2,7 +2,6 @@
 
 *Read this in other languages: [English](README.md) | [简体中文](README_zh-CN.md)*
 
-![AgentLadle Banner](https://agentladle.com/vite.webp)
 
 **AgentLadle** is a specialized Model Context Protocol (MCP) server designed for AI developers and platforms.
 
